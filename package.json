@@ -30,7 +30,7 @@
     "truncate-html": "^1.2.2"
   },
   "engines": {
-    "node": "^20.0.0"
+    "node": "^22.0.0"
   },
   "packageManager": "yarn@1.22.22",
   "workspaces": [
